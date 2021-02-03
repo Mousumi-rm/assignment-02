@@ -1,2 +1,24 @@
 body{
   margin: 0;
+}
+.orang-color{
+  color: #FABE4C;
+}
+h1{
+  font-size: 60px;
+  font-family: 'Anton', sans-serif;
+}
+.black-color{
+  color: #363958;
+}
+.button-1{
+  background-color: #92AC2C;
+  color: white;
+
+  text-decoration: none;
+  border: none;
+  padding: 15px 45px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
